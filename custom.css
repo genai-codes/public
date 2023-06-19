@@ -1,0 +1,48 @@
+body {
+  background-color: #000000;
+  color: #111827;
+  font-family: sans-serif;
+}
+
+/* Primary Color */
+a {
+  color: #346FF7;
+}
+
+button,
+.btn {
+  background-color: #346FF7;
+  color: #FFFFFF;
+}
+
+/* Background Colors */
+.stCard {
+  background-color: #E5E7EB;
+}
+
+.stTextInput,
+.stTextArea {
+  background-color: #111827;
+  color: #111827;
+}
+.chat-text {
+    text-align: left;  /* Adjust the alignment as per your requirement (left, center, right) */
+}
+/* Text Color */
+h1, h2, h3, h4, h5, h6 {
+  color: #111827;
+}
+div[data-testid="stSidebar"] {
+    width: 300px;
+  }
+
+
+#MainMenu{
+  visibility: hidden;
+}
+footer {visibility: hidden;}
+
+header{
+  visibility: hidden;
+}
+
